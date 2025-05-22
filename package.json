@@ -1,0 +1,1 @@
+{"name": "creaco-frontend", "version": "1.0.0", "private": True, "scripts": {"dev": "next dev", "build": "next build", "start": "next start"}, "dependencies": {"next": "latest", "react": "latest", "react-dom": "latest", "three": "^0.155.0"}, "devDependencies": {"autoprefixer": "^10.4.14", "postcss": "^8.4.21", "tailwindcss": "^3.3.2", "typescript": "^5.2.2"}}
